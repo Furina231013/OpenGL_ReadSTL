@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>stl.frag</file>
+        <file>stl.vert</file>
+        <file>singlecolor.frag</file>
+        <file>secondcolor.frag</file>
+    </qresource>
+</RCC>
